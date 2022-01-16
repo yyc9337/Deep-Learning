@@ -23,7 +23,7 @@ answering. You'll also cover simpler and faster BERT variants based on
 knowledge distillation such as DistilBERT and TinyBERT. The book takes you
 through MBERT, XLM, and XLM-R in detail and then introduces you to sentence
 -BERT, which is used for obtaining sentence representation. Finally, you'll
-discover domain-specific BERT models such as BioBERT and ClinicalBERT, and 
+discover domain-specific BERT models such as BioBERT and ClinicalBERT, Wnd 
 discover an interesting variant called VideoBERT.
 
 
