@@ -29,3 +29,14 @@ discover an interesting variant called VideoBERT.
 
  By the end of this BERT book, you’ll be well-versed with using BERT and its 
  variants for performing practical NLP tasks.
+
+This book covers the following exciting features:
+
+- Understand the transformer model from the ground up
+- Find out how BERT works and pre-train it using masked language model (MLM) and next sentence prediction (NSP) tasks
+- Get hands-on with BERT by learning to generate contextual word and sentence embeddings
+- Fine-tune BERT for downstream tasks
+- Get to grips with ALBERT, RoBERTa, ELECTRA, and SpanBERT models
+- Get the hang of the BERT models based on knowledge distillation
+- Understand cross-lingual models such as XLM and XLM-R
+- Explore Sentence-BERT, VideoBERT, and BART
