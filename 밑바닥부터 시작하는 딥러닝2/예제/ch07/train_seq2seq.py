@@ -13,10 +13,11 @@ from peeky_seq2seq import PeekySeq2seq
 
 # 데이터셋 읽기
 (x_train, t_train), (x_test, t_test) = sequence.load_data('addition.txt')
+x_train, x_test = x_train[:, ::-1], x_test[:, ::-1]
 char_to_id, id_to_char = sequence.get_vocab()
 
 # 입력 반전 여부 설정 =============================================
-is_reverse = False  # True
+is_reverse = True  # True
 if is_reverse:
     x_train, x_test = x_train[:, ::-1], x_test[:, ::-1]
 # ================================================================
