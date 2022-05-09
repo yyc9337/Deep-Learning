@@ -1,7 +1,7 @@
 # 구글 BERT의 정석
 
 
-<img src="img/img.jpg" height="700" width="400">
+<img src="img/img.jpg" height="700" width="500">
 
 
 ### What is this book about?
